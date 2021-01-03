@@ -128,7 +128,7 @@ pyzmq==20.0.0
 reportlab==3.5.34
 requests==2.22.0
 requests-unixsocket==0.2.0
-rope==0.10.5
+rope==0.11.0
 SecretStorage==2.3.1
 Send2Trash==1.5.0
 setproctitle==1.1.10
